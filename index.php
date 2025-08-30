@@ -15,6 +15,7 @@ $description = "Learn how to build a moss rock retaining wall with step-by-step 
     <title><?php echo $title; ?></title>
     <meta name="description" content="<?php echo $description; ?>" />
     <meta name="robots" content="index, follow" />
+    <link rel="canonical" href="https://moss-rock-22e5082bde7e.herokuapp.com/" />
     
     <!-- FAQ Schema Markup by FARMAN ASHFAQ (JSON-LD) -->
     <script type="application/ld+json">
@@ -313,4 +314,5 @@ $description = "Learn how to build a moss rock retaining wall with step-by-step 
 </footer>
 
 </body>
+
 </html>
