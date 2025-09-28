@@ -11,6 +11,7 @@ $description = "Learn how to build a moss rock retaining wall with step-by-step 
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <meta name="google-site-verification" content="G9nBWywdrPfZtXr5gRi86OzXgxnQITrWNIx3xMIPsgU" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title><?php echo $title; ?></title>
     <meta name="description" content="<?php echo $description; ?>" />
@@ -316,3 +317,4 @@ $description = "Learn how to build a moss rock retaining wall with step-by-step 
 </body>
 
 </html>
+
